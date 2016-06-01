@@ -11,7 +11,7 @@ bronpad = "/home/peter/Afbeeldingen"
 bronbestand = "*.svg"
 
 # variablelen voor de doelinstructieregel
-doelinstructie = "exiftool -common -csv"
+doelinstructie = "exiftool -T -common -csv"
 doeloptie = ""
 doeldrive = "/"
 doelpad = "/home/peter"
